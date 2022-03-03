@@ -1,2 +1,6 @@
 # pretest-Web-Developer-Conecworld
-I WRITE THIS CODE WITH JAVASCRIPT LANGUAGE
+
+My Name Arkin Melvian Dwiansyah.
+Fresh Graduate on Politeknik Negeri Malang.
+I do this pretest with many refrence on google and youtube.
+I Write This Code With "JAVASCRIPT LANGUAGE".
